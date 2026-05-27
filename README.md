@@ -73,15 +73,14 @@ Working on Machine Learning, Deep Learning, and intelligent systems using Scikit
 
 ---
 
-## 🌱 Currently Learning
+## 🌱 Currently Exploring
 
+- Retrieval-Augmented Generation (RAG)
+- Natural Language Processing (NLP)
 - Deep Learning
-- MLOps
-- System Design
-- Advanced Backend Engineering
-
----
-
+- Computer Vision
+- Advanced AI Applications
+- Scalable Full Stack Systems
 ## 📊 GitHub Stats
 
 <p align="center">
