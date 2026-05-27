@@ -13,18 +13,14 @@ Passionate about building scalable web applications, AI-powered systems, and rea
 </p>
 
 ---
-
 ## 🚀 About Me
 
-- 🎓 Final Year B.Tech Student
-- 💻 Passionate about Full Stack Development and AI/ML
-- 🌱 Currently learning Deep Learning, MLOps, and System Design
-- 🔥 Interested in scalable backend systems and intelligent applications
-- 📚 Regularly practicing DSA and problem solving
-- ⚡ Love building real-world software products
-
----
-
+- 🎓 Final Year B.Tech Student passionate about Software Development and Artificial Intelligence
+- 💻 Building scalable full stack applications and AI-powered systems using MERN Stack and modern ML technologies
+- 🤖 Interested in Computer Vision, NLP, Deep Learning, and Retrieval-Augmented Generation (RAG)
+- 🔥 Experienced in developing real-world projects involving real-time systems, intelligent recommendations, and AI integrations
+- 📚 Strong interest in Data Structures & Algorithms and problem-solving
+-  ⚡ Enthusiastic about solving real-world problems through technology
 ## 🛠 Tech Stack
 
 ### Languages
